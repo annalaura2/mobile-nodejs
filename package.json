@@ -1,0 +1,11 @@
+{
+  "name": "05-shoppe-cart",
+  "version": "1.0.0",
+  "description": "conceitos de backend na criação de um simulador de carrinho da shoppe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anna Laura",
+  "license": "ISC"
+}
